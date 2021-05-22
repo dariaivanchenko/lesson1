@@ -3,3 +3,5 @@ def discounted(price, discount):
     print(price_with_discount)
 
 discounted(100, 50)
+
+print("Hello, world")
